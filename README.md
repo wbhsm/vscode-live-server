@@ -26,6 +26,7 @@ _[Wanna try [LIVE SERVER++](https://github.com/ritwickdey/vscode-live-server-plu
 
 2. Right click on a `HTML` file from Explorer Window and click on `Open with Live Server`.
 ![Explorer Window Control](./images/Screenshot/vscode-live-server-explorer-menu-demo-1.gif).
+#1#
 
 3. Open a HTML file and right-click on the editor and  click on `Open with Live Server`.
 ![Edit Menu Option Preview](./images/Screenshot/vscode-live-server-editor-menu-3.jpg)
